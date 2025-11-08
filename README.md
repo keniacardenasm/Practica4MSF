@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: Regeneracion de globulos rojos; Modelo matematico; Sistema sanguineo ; Simulaciones numericas; Parametros gamma .
+Palabras clave: Regeneracion de globulos rojos; Modelo matematico; Sistema sanguineo ; Simulaciones numericas; Parametros gamma beta .
 
 ## Lista de archivos incluidos en el repositorio
 
