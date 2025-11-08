@@ -2,9 +2,9 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Kenia cardenas Manzo [20210773]; kenia.cardenas201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Regeneracion de globulos rojos; Modelo matematico; Sistema sanguineo ; Simulaciones numericas; Parametros gamma .
 
 ## Lista de archivos incluidos en el repositorio
 
